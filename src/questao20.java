@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class questão20 {
+public class questao20 {
 
     public static void Desconto(double valor_compra){
         if (valor_compra <= 100.00){
